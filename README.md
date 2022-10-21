@@ -16,5 +16,5 @@
 <div> 
   <a href="https://www.instagram.com/alvesxdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:henrryfps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.behance.net/alvesxdev" target="_blank"><img src="https://cdn.discordapp.com/attachments/669773842998362123/1032911535879762030/behance.png" target="_blank"></a>
+  <a href = "https://www.behance.net/alvesxdev" target="_blank"><img src="https://cdn.discordapp.com/attachments/669773842998362123/1032911972682969149/behance.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henry-santos-06bb08188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
